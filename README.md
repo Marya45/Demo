@@ -1,4 +1,4 @@
 # Demo
-Learning git
+Creating a repository
 <br>
-Author - Rohan
+Author - Rohan 
